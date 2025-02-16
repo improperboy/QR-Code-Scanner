@@ -35,6 +35,7 @@ header p {
 }
 
 .wrapper {
+  height: 270px;
   width: 420px;
   border-radius: 15px;
   background: rgba(255, 255, 255, 0.1);
